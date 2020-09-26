@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Azure_Blob" target="1.5" />
+      <module name="Azure_Blob" target="1.13" />
     </bytecodeTargetLevel>
   </component>
 </project>
